@@ -3,4 +3,4 @@ for i in lst:
     print (i)
 
 3
-.mvzklmzl nlzvlnVkvnLvk
+zklmzl nlzvlnVkvnLvk
